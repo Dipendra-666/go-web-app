@@ -91,7 +91,6 @@ This project showcases a modern **End-to-End DevOps workflow** that automaticall
 ## Key Highlights
 
 - Production-optimized Docker images
-- Proper Git branching strategy
 - Self-healing GitOps deployment
 - Clear demonstration of automation power
 
